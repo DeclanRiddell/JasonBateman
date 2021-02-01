@@ -1,0 +1,57 @@
+Directories in use:
+  home:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3
+  config:       /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/conf
+  logs:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/logs
+  plugins:      /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/plugins
+  import:       /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/import
+  data:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/data
+  certificates: /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/certificates
+  run:          /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/run
+Starting Neo4j.
+2020-05-05 03:06:26.357+0000 INFO  ======== Neo4j 4.0.3 ========
+2020-05-05 03:06:26.362+0000 INFO  Starting...
+2020-05-05 03:06:32.554+0000 INFO  Sending metrics to CSV file at /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/metrics
+2020-05-05 03:06:32.576+0000 INFO  Bolt enabled on localhost:7687.
+2020-05-05 03:06:32.576+0000 INFO  Started.
+2020-05-05 03:06:32.817+0000 INFO  Server thread metrics have been registered successfully
+2020-05-05 03:06:33.597+0000 INFO  Remote interface available at http://localhost:7474/
+2020-05-05 06:48:03.570+0000 INFO  Neo4j Server shutdown initiated by request
+2020-05-05 06:48:03.617+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3
+  config:       /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/conf
+  logs:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/logs
+  plugins:      /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/plugins
+  import:       /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/import
+  data:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/data
+  certificates: /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/certificates
+  run:          /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/run
+Starting Neo4j.
+2020-05-07 17:41:58.522+0000 INFO  ======== Neo4j 4.0.3 ========
+2020-05-07 17:41:58.531+0000 INFO  Starting...
+2020-05-07 17:42:03.402+0000 INFO  Sending metrics to CSV file at /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/metrics
+2020-05-07 17:42:03.426+0000 INFO  Bolt enabled on localhost:7687.
+2020-05-07 17:42:03.426+0000 INFO  Started.
+2020-05-07 17:42:03.729+0000 INFO  Server thread metrics have been registered successfully
+2020-05-07 17:42:04.619+0000 INFO  Remote interface available at http://localhost:7474/
+2020-05-07 18:54:10.852+0000 INFO  Neo4j Server shutdown initiated by request
+2020-05-07 18:54:10.887+0000 INFO  Stopping...
+Directories in use:
+  home:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3
+  config:       /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/conf
+  logs:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/logs
+  plugins:      /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/plugins
+  import:       /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/import
+  data:         /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/data
+  certificates: /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/certificates
+  run:          /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/run
+Starting Neo4j.
+2021-02-01 04:35:44.445+0000 INFO  ======== Neo4j 4.0.3 ========
+2021-02-01 04:35:44.452+0000 INFO  Starting...
+2021-02-01 04:35:49.398+0000 INFO  Sending metrics to CSV file at /Users/declanriddell/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/database-a23a0828-1efe-4ea5-b40a-8144413c28ff/installation-4.0.3/metrics
+2021-02-01 04:35:49.420+0000 INFO  Bolt enabled on localhost:7687.
+2021-02-01 04:35:49.420+0000 INFO  Started.
+2021-02-01 04:35:49.744+0000 INFO  Server thread metrics have been registered successfully
+2021-02-01 04:35:50.738+0000 INFO  Remote interface available at http://localhost:7474/
+2021-02-01 04:37:55.419+0000 INFO  Neo4j Server shutdown initiated by request
+2021-02-01 04:37:55.446+0000 INFO  Stopping...
